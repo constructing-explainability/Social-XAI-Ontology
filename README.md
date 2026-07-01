@@ -12,8 +12,8 @@ Research papers:
 - Booshehri, M., Buschmeier, H., & Cimiano, P. (2024). Towards a BFO-based ontology of understanding in explanatory interactions. _Proceedings of the 4th International Workshop on Data Meets Applied Ontologies in Explainable AI (DAO-XAI)_. Santiago de Compostela, Spain. https://ceur-ws.org/Vol-3833/paper3.pdf
 
 
-Software artefact:
-- Booshehri, M., Buschmeier, H., & Cimiano, P. (2026). Social XAI Ontology. Zenodo. https://doi.org/10.5281/zenodo.21071108
+Conceptual model/software artefact:
+- Booshehri, M., Buschmeier, H., & Cimiano, P. (2026). _Social XAI Ontology_. Zenodo. https://doi.org/10.5281/zenodo.21071108
 
 
 ## Acknowledgements
